@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 3: Getting started'
+title: 'Chapter 3: Machine Learning'
 description:
   'This chapter will teach you about many cool things and introduce you to the
   most important concepts of the course.'
