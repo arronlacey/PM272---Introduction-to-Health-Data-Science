@@ -1,12 +1,12 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Chapter 3: Getting started'
 description:
   'This chapter will teach you about many cool things and introduce you to the
   most important concepts of the course.'
-prev: null
-next: /chapter2
+prev: /chapter2
+next: null
 type: chapter
-id: 1
+id: 3
 ---
 
 <exercise id="1" title="Introduction" type="slides">
