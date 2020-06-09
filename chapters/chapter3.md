@@ -52,7 +52,7 @@ the one for the instructions below.
 - The code block below will look for the files `exc_01_03`, `solution_01_03` and
   `test_01_03` in `/exercises`.
 
-<codeblock id="01_03">
+<codeblock id="08_01">
 
 This is a hint.
 
